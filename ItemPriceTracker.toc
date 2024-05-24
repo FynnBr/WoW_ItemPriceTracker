@@ -1,0 +1,8 @@
+## Interface: 11400
+## Title: Item Price Tracker
+## Notes: Tracks prices of items bought on the trading post.
+## Author: Fynn
+## Version: 0.1
+
+ItemPriceTracker.lua
+ItemPriceTracker.xml
